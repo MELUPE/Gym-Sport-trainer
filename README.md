@@ -1,3 +1,3 @@
 # Gym-Sport-trainer
-Android studio (Java)
+Android studio (Java/Kotlin)
 
